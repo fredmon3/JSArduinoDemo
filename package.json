@@ -1,0 +1,22 @@
+{
+  "name": "js-arduino-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredmon3/JSArduinoDemo.git"
+  },
+  "author": "Fred Wehle, III",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredmon3/JSArduinoDemo/issues"
+  },
+  "homepage": "https://github.com/fredmon3/JSArduinoDemo#readme",
+  "dependencies": {
+    "johnny-five": "^0.10.13"
+  }
+}
