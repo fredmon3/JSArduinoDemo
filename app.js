@@ -8,10 +8,10 @@ board.on("ready", function() {
 
 // OUTPUT
 
-board.on("ready", function() {
-  led = new five.Led(13);
-  led.blink(500);
-});
+// board.on("ready", function() {
+//   led = new five.Led(13);
+//   led.blink(500);
+// });
 
 
 // INPUT
